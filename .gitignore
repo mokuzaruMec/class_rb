@@ -1,0 +1,79 @@
+# ========================================================
+# 1. CARPETAS GENERADAS POR UNITY (¡NUNCA SUBIR A GITHUB!)
+# ========================================================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Ignorar caché del paquete Plastic SCM / Unity Version Control si existe
+.plastic/
+
+# Ignorar los meta files de las carpetas vacías o excluidas
+/[Ll]ibrary.meta
+/[Tt]emp.meta
+/[Oo]bj.meta
+/[Bb]uild.meta
+/[Bb]uilds.meta
+/[Ll]ogs.meta
+/[Uu]ser[Ss]ettings.meta
+
+# ========================================================
+# 2. ARCHIVOS DE VISUAL STUDIO / VS CODE / JETBRAINS RIDER
+# ========================================================
+.vs/
+.vscode/
+.idea/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Ignorar los .meta de archivos autogenerados por el IDE
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ========================================================
+# 3. EJECUTABLES Y COMPILADOS MÓVILES (ANDROID / PC)
+# ========================================================
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Reportes de fallos
+sysinfo.txt
+crash.dmp
+*.stackdump
+
+# ========================================================
+# 4. ARCHIVOS BASURA DEL SISTEMA OPERATIVO (WINDOWS / MAC)
+# ========================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# comentario añadido
